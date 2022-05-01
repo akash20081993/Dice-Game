@@ -1,0 +1,54 @@
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+
+}
+.btn{
+  position: relative;
+  margin-top:50px;
+}
+
+body {
+  background-color: #393E46;
+  background-image: url("images/DICE2.jpg");
+  background-repeat:no-repeat;
+  background-size: cover
+}
+
+h1 {
+  position:relative;
+  top:50px;
+  margin: 30px;
+  font-family: 'Lobster', cursive;
+  text-shadow: 5px 0 #232931;
+  font-size: 7rem;
+  color: #4ECCA3;
+}
+
+p {
+  position:relative;
+  top:70px;
+  font-size: 2rem;
+  color: #4ECCA3;
+  font-family: 'Indie Flower', cursive;
+}
+
+img {
+  width: 80%;
+  position:relative;
+  margin-top:70px;
+}
+
+footer {
+  margin-top: 3%;
+  color: #EEEEEE;
+  text-align: center;
+  font-family: 'Indie Flower', cursive;
+
+}
